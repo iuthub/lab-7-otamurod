@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4c30ff2-dd55-4dea-9af9-706cd9370150" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="2cf15455-79f8-4401-b55b-84dd4c5ff586" name="localhost" port="8084" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1qxo9DGQxA1tUaOdTHYXZLSdRrA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="lab-7-otamurod" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" singleton="false" document_root="$PROJECT_DIR$/webpage" port="8084">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
